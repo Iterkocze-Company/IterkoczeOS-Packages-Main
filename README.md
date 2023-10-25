@@ -1,4 +1,4 @@
 # IterkoczeOS-Packages-Main
 IterkoczeOS Main Software Repository
 
-All software on this repository was compiled on IterkoczeOS
+All software in this repository is provided in binary form and has been compiled on IterkoczeOS
